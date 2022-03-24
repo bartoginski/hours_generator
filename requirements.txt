@@ -1,0 +1,10 @@
+autopep8==1.6.0
+et-xmlfile==1.1.0
+flake8==4.0.1
+lxml==4.8.0
+mccabe==0.6.1
+openpyxl==3.0.9
+pycodestyle==2.8.0
+pyflakes==2.4.0
+python-docx==0.8.11
+toml==0.10.2
